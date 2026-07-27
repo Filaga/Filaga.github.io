@@ -2,7 +2,7 @@
 
 I am a Computer Engineering student at Universitas Indonesia with a passion for creating engaging gameplay experiences using Unity and C#.
 
-I've participated in three consecutive GameSeed Game Jams (2024–2026), collaborating with multidisciplinary teams to develop complete, playable games under tight deadlines. My core interests include gameplay programming, UI systems, scene management, and game polish.
+I've participated in three Game Jams (2024–2026), collaborating with multidisciplinary teams to develop complete, playable games under tight deadlines. My core interests include gameplay programming, UI systems, scene management, and game polish.
 
 ---
 
