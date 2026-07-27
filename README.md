@@ -82,7 +82,7 @@ A unique base-building survival game where you play as unwanted parasites living
 
 ## Achievements
 
-- **Top 20** - GameSeed Student Category 2025
+- Top 20 GameSeed Student Category 2025 (Stars of Elysia)
   <br>![GameSeed Certification](images/gs2025.png)
 
 ---
