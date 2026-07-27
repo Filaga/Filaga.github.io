@@ -1,6 +1,4 @@
-# Filaga Tifira Muthi
-
-## Aspiring Gameplay Programmer
+# Gameplay Programmer
 
 I am a Computer Engineering student at Universitas Indonesia with a passion for creating engaging gameplay experiences using Unity and C#.
 
